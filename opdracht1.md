@@ -8,7 +8,7 @@ een feit ondersteund.
 1 Scholia
 ---------
 
-Open Science is geven en namen. Daarom beginnen we met nemen: [Scholia](https://tools.wmflabs.org/scholia/).
+Open Science is geven en namen. Daarom beginnen we met nemen: [Scholia](https://scholia.toolforge.org/scholia/).
 
 **Opdracht**: Zoek literature in Scholia over het Zika virus.
 
